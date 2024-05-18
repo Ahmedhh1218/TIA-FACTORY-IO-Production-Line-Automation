@@ -1,0 +1,2 @@
+# TIA-FACTORY-IO-Production-Line-Automation
+ This project implements a fully functioning production line simulation using Factory IO and Siemens TIA Portal. The production line automates tasks such as machining, sorting, and assembly, starting from raw materials to finished products. The system is controlled by a SIMATIC S7-1200 PLC and includes a custom HMI interface for monitoring and supervisory control. Field-related alarms are utilized for fault detection, ensuring smooth and efficient operation.
